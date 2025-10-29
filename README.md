@@ -4,13 +4,9 @@
   <p>Student / Developer • I love building tools and learning by creating ✨</p>
 
   <p>
-    ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=MatthiasSami)
-  </p>
-
-  <p>
     <a href="https://github.com/MatthiasSami"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/MatthiasSami" /></a>
-    <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&link=https://www.linkedin.com/in/YOUR-LINKEDIN/" /></a>
-    <a href="mailto:your.email@example.com"><img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&link=mailto:your.email@example.com" /></a>
+    <a href="https://www.linkedin.com/in/matthias-sami/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&link=https://www.linkedin.com/in/YOUR-LINKEDIN/" /></a>
+    <a href="mailto:samimatthias@gmail.com"><img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&link=mailto:samimatthias@gmail.com" /></a>
   </p>
 
 </div>
@@ -20,7 +16,7 @@
 ## 🔭 About me
 - 🎓 Computer Science student (BUT)
 - 💡 I like building small tools that solve real problems
-- 🌱 Learning: backend, frontend, product design
+- 🌱 Learning: backend, frontend, logic
 - ⚡ Fun fact: I focus on **clean, simple UX** over bloated features
 
 ---
@@ -54,6 +50,6 @@
 ---
 
 ## 📫 Contact
-- Email: your.email@example.com  
-- LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN/  
-- Portfolio: https://yourdomain.com
+- Email: samimatthias@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/matthias-sami/  
+- Portfolio: https://[yourdomain.com](https://matthiassami.github.io/)
