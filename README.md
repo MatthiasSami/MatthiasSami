@@ -52,4 +52,4 @@
 ## 📫 Contact
 - Email: samimatthias@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/matthias-sami/  
-- Portfolio: https://[matthiassami.github.io/](https://matthiassami.github.io/)
+- Portfolio: [https://matthiassami.github.io/](https://matthiassami.github.io/)
