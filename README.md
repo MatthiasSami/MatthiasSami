@@ -1,10 +1,10 @@
 <div align="center">
 
-  <h1>Hey, I'm <strong>Matthias</strong> 👋</h1>
-  <p>Student / Developer • I build useful tools & learn by shipping ✨</p>
+  <h1>Hey, I'm Matthias 👋</h1>
+  <p>Student / Developer • I love building tools and learning by creating ✨</p>
 
   <p>
-    <img src="https://profile-counter.glitch.me/MatthiasSami/count.svg" alt="Visitor Count" />
+    ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=MatthiasSami)
   </p>
 
   <p>
@@ -12,15 +12,16 @@
     <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&link=https://www.linkedin.com/in/YOUR-LINKEDIN/" /></a>
     <a href="mailto:your.email@example.com"><img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&link=mailto:your.email@example.com" /></a>
   </p>
+
 </div>
 
 ---
 
 ## 🔭 About me
-- 🎓 Computer Science student
+- 🎓 Computer Science student (BUT)
 - 💡 I like building small tools that solve real problems
-- 🌱 Learning: backend, frontend, logic
-- ⚡ Fun fact: I prefer simple, elegant UX over feature bloat
+- 🌱 Learning: backend, frontend, product design
+- ⚡ Fun fact: I focus on **clean, simple UX** over bloated features
 
 ---
 
@@ -36,8 +37,10 @@
 ## 🔥 GitHub Stats
 
 <div align="center">
+  <!-- Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=MatthiasSami&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
   &nbsp;&nbsp;
+  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatthiasSami&layout=compact&theme=dark" alt="Top Languages" />
 </div>
 
@@ -50,16 +53,7 @@
 
 ---
 
-## 📈 Activity
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=MatthiasSami&theme=github" alt="activity graph" />
-</p>
-
----
-
 ## 📫 Contact
 - Email: your.email@example.com  
 - LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN/  
 - Portfolio: https://yourdomain.com
-
----
